@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lucky-Riot
 - 👀 I’m interested in Computer Science and Mathematics.
-- 🌱 I’m currently learning at YNOV Montpellier Campus
-- 💞️ I’m looking to collaborate with a company because i'm a student in apprenticeship.
+- 🌱 I’m currently learning at YNOV Montpellier Campus and Data Analyst at SUEZ EAU FRANCE in apprenticeship
 - 📫 How to reach me : +33 06 95 99 14 45 / nzila.manongo24@gmail.com /nzila.manongo@ynov.com
 
 <!---
